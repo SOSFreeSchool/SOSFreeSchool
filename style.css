@@ -1,0 +1,72 @@
+* {
+  font-family: verdana;
+}
+
+#wrapper {
+  margin: 10px;
+}
+
+#header {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#menu {
+  text-align: center;
+}
+
+#links {
+  color: black;
+  margin: 0;
+  display: inline;
+  text-decoration: none;
+  padding: 20px;
+}
+
+hr {
+  margin-bottom: 60px;
+  height: 2px;
+  background: black;
+}
+
+#donation-link {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+#gofundme {
+  text-align: center;
+  color: #707070;
+  text-decoration: none;
+  font-style: italic;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+h1, h3, h5 {
+  font-weight: bold;
+  padding: 0px;
+  margin-bottom: 0px;
+  font-style: italic;
+}
+
+#time, #types, #compensation, #endorsements, #principles, #courses {
+  width: 50%;
+  clear: both;
+}
+
+#about, #themes, #reading-groups, #tiers, #contact, #classes {
+  float: right;
+  width: 50%;
+  text-align: right;
+  clear: both;
+}
+
+#inline-tags {
+  margin-bottom: 5px;
+}
