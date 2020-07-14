@@ -1,5 +1,6 @@
 * {
   font-family: verdana;
+  text-align: center;
 }
 
 #wrapper {
@@ -55,7 +56,7 @@ h1, h3, h5 {
   font-style: italic;
 }
 
-#time, #types, #compensation, #endorsements, #principles, #courses {
+/* #time, #types, #compensation, #endorsements, #principles, #courses {
   width: 50%;
   clear: both;
 }
@@ -65,7 +66,7 @@ h1, h3, h5 {
   width: 50%;
   text-align: right;
   clear: both;
-}
+} */
 
 #inline-tags {
   margin-bottom: 5px;
