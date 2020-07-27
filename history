@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<title>SOS Free School</title>
+<meta name="Home" content="SOS Free School Home">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="wrapper">
+  <div id="header">
+    <h1 style="font-style: normal;">Summer Organizing School (SOS)</h1>
+    <img style="width: 250px; height: 250px;" src="images/SOS_logo_square_transp.png" alt="SOS logo">
+  </div>
+  <div id="menu">
+    <a id="links" href="index.html">Home</a>
+    <a id="links" href="statementofprinciples.html">Statement of Principles</a>
+    <a id="links" href="courses.html">Course Listings</a>
+    <a id="links" href="fundraiser.html">Donations</a>
+    <a id="links" href="videos.html">Videos</a>
+    <a id="links" href="https://docs.google.com/forms/d/e/1FAIpQLSccvHspA3m0m1y8RusiG8BbeLl-zCgMsYzh3kuMZJ995sq1uA/viewform">Register</a>
+  </div>
+  <hr/>
+    <p><p style="text-align:center;"><em>While we are on zoom and many of us are joining from different places, we want to remind ourselves that we are gathered on the unceded lands of indigenous peoples. For those in NYC, where SOS is based, the Lenapehoking and the land of the Lenape people. The legacy of transatlantic slavery and the history of anti-blackness in the US has been tied to the theft of people to stolen land. Settler colonialism and the afterlife of slavery include the expansion of prisons and the militarization of police occupying unceded lands. Early carceral technologies included the displacement of Native people off of sacred lands and into reservations, and so abolition necessitates decolonization.</em></p>
+    <p style="text-align:center;">Adapted from the Asian American Feminist Collective, and drawn from Tuhiwai Smith's <em>Decolonizing Methodologies,</em> and Mahmood Mamdani's "Settler Colonialism: Then and Now"</p>
+   <hr width="25%">
+    <h3>A Brief History of SOS</h3>
+    <p>May -- July 2020</p>
+    <p style="text-align:left;">Summer Organizing School started with a labor action at NYU. Sick and tired of being told that housing security, health protections, tuition refunds, and funding extensions would hurt the university’s budget, graduate student workers staged a sick out in protest. Graduate students, undergrads, faculty, and workers gathered virtually to discuss the failures of the university in responding to the Covid crisis, envision alternatives, build connections, and plan for future actions.</p>
+    <p style="text-align:left;">In the midst of soaring joblessness, poverty, and hunger university administrators expected students to keep paying outrageous tuition and fees. Instructors, specifically grad workers and contingent faculty, would have to put their students and their health at risk to work more for the same pitiful wages. University administrators sent mealy-mouthed emails. Meanwhile covid’s spread embodied Ruth Wilson Gilmore’s definition of racism: “the state-sanctioned or extralegal production and exploitation of group-differentiated vulnerability to premature death.” Fuck that.</p>
+    <p><em>If universities were going to hold education hostage,<br>
+instructors would give it away for free.</em></p> 
+    <p style="text-align:left;">Providing free classes goes against the fundamental, unspoken logic of universities--that education is a privilege for the white, wealthy, cisgender, ablebodied, neurotypical and well connected, best used as a tool for making money. Refusing to center whiteness in the process of knowledge production and knowledge sharing destabilizes academia.. In the midst of COVID, public universities face massive state-mandated budget cuts while private universities cling to austerity to preserve admin salary and capital expansion. SOS refuses this logic. It is inspired by Student Nonviolent Coordinating Committee’s (SNCC) Freedom Schools as well as the Black Power Movement’s Liberation Schools.</p>
+    <p style="text-align:left;">Private and public universities are driving forces behind U.S. empire, gentrification, and policing.  SOS stands in solidarity with local and global movements like CUNY’s “Cut Covid not CUNY,” the UC’s COLA campaign and South Africa’s Fees Must Fall. SOS recognizes that interlocking systems of oppression and institutional relationships also exist within student movements and labor unions, and must be addressed through political education and skill building. SOS will redistribute resources hoarded by universities and their networks of wealth and power and is committed to reparations to Black people for past and present anti-Black violence. </p>
+    <p style="text-align:left;">The SOS project continues to grow and transform--to be pushed and checked by participants. This transformation and redirection is part and parcel of the project. Come along.</b>
+  </div>
